@@ -1,0 +1,12 @@
+﻿  TrackBackground.cpp
+  PlayerCar.cpp
+h:\documents\visual studio 2013\projects\cargame\cargame\src\playercar.cpp(94): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\documents\visual studio 2013\projects\cargame\cargame\src\playercar.cpp(101): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lap.cpp
+  HUD.cpp
+  Collisions.cpp
+  Barrier.cpp
+  main.cpp
+  Generating Code...
+  CarGame.vcxproj -> H:\Documents\Visual Studio 2013\Projects\CarGame\Debug\CarGame.exe
+  CarGame.vcxproj -> H:\Documents\Visual Studio 2013\Projects\CarGame\Debug\CarGame.pdb (Full PDB)
